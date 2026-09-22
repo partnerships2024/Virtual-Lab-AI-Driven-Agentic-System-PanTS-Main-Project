@@ -167,13 +167,13 @@ Potential segmentation architectures and approaches will be evaluated according 
 
 # Data Sources
 
-This section documents the datasets and publicly available resources used for the pancreatic tumour segmentation research.
+This section documents the datasets and publicly available resources used for pancreatic tumour segmentation research.
 
-| Dataset / Resource                | Description                                                       | Link          |
-| :-------------------------------- | :---------------------------------------------------------------- | :------------ |
-| **PanTS**                         | Pancreatic Tumor Segmentation research and reproduction resource | *To be added* |
-| **Medical Segmentation Datasets** | Publicly available 3D medical imaging datasets                    | *To be added* |
-| **Research Literature**           | Published studies and benchmark methodologies                     | *To be added* |
+| Dataset / Resource | Description | Link |
+| :--- | :--- | :--- |
+| **PanTS** | Pancreatic tumour segmentation research and reproduction resource | *To be added* |
+| **PanTS 3D Dataset Access** | Access to the PanTS 3D medical imaging dataset | [![Google Drive](https://img.shields.io/badge/Google%20Drive-PanTS%203D%20Dataset%20Access-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/12A56hYP44R_pKfK_HUMoVrkpWT5itceF) |
+| **Research Literature** | Published studies and benchmark methodologies | *To be added* |
 
 ### Dataset documentation
 
@@ -195,12 +195,11 @@ For each dataset, the repository will document:
 
 # Research Resources
 
-| Resource                      | Link                                                                                                                                                                                                                                                          |
-| :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Research Concept Note**     | [![Research Concept Note](https://img.shields.io/badge/Research%20Concept%20Note-Open%20Document-F39C12?style=for-the-badge\&logo=google\&logoColor=white)](https://docs.google.com/document/d/16WZZN5kf4IAWRCzSOtsbxhngEN2JQmxAd-6BGR6OXZU/edit?usp=sharing) |
-| **PanTS Research Repository** | *To be added*                                                                                                                                                                                                                                                 |
-| **Experimental Results**      | *To be added*                                                                                                                                                                                                                                                 |
-| **Research Documentation**    | *To be added*                                                                                                                                                                                                                                                 |
+| Resource | Link |
+| :--- | :--- |
+| **Research Concept Note** | [![Research Concept Note](https://img.shields.io/badge/Research%20Concept%20Note-Open%20Document-F39C12?style=for-the-badge\&logo=google\&logoColor=white)](https://docs.google.com/document/d/16WZZN5kf4IAWRCzSOtsbxhngEN2JQmxAd-6BGR6OXZU/edit?usp=sharing) |
+| **Open PanTS 3D Data Preparation & Quality Audit** | [![Google Colab](https://img.shields.io/badge/Google%20Colab-PanTS%203D%20Data%20Preparation%20%26%20Audit-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)](https://colab.research.google.com/drive/1GU7P0Z3VTJDB5cm73ur6uwZNDV9RivSF?usp=sharing) |
+| **PanTS Research Repository** | *To be added* |                                                                                                         
 
 ---
 
