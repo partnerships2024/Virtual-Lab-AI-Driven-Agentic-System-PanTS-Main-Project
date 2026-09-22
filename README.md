@@ -197,7 +197,7 @@ For each dataset, the repository will document:
 
 | Resource | Link |
 | :--- | :--- |
-| **Research Concept Note** | [![Research Concept Note](https://img.shields.io/badge/Research%20Concept%20Note-Open%20Document-F39C12?style=for-the-badge\&logo=google\&logoColor=white)](https://docs.google.com/document/d/16WZZN5kf4IAWRCzSOtsbxhngEN2JQmxAd-6BGR6OXZU/edit?usp=sharing) |
+| **Research Concept Note** | [![Research Concept Note](https://img.shields.io/badge/Research%20Concept%20Note-Open%20Document-F39C12?style=for-the-badge\&logo=google\&logoColor=white)](https://docs.google.com/document/d/1MhKmYg71sm7HnJGFlpgwsyDsykhE1v0iSGWfY0FyRyU/edit?usp=sharing) |
 | **Open PanTS 3D Data Preparation & Quality Audit** | [![Google Colab](https://img.shields.io/badge/Google%20Colab-PanTS%203D%20Data%20Preparation%20%26%20Audit-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)](https://colab.research.google.com/drive/1GU7P0Z3VTJDB5cm73ur6uwZNDV9RivSF?usp=sharing) |
 | **PanTS Research Repository** | *To be added* |                                                                                                         
 
