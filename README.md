@@ -172,7 +172,7 @@ This section documents the datasets and publicly available resources used for pa
 | Dataset / Resource | Description | Link |
 | :--- | :--- | :--- |
 | **PanTS** | Pancreatic tumour segmentation research and reproduction resource | *To be added* |
-| **PanTS 3D Dataset Access** | Access to the PanTS 3D medical imaging dataset | [![Google Drive](https://img.shields.io/badge/Google%20Drive-PanTS%203D%20Dataset%20Access-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/12A56hYP44R_pKfK_HUMoVrkpWT5itceF) |
+| **PanTS 3D Dataset Access** | Access to the PanTS 3D medical imaging dataset | [![Google Drive](https://img.shields.io/badge/Google%20Drive-PanTS%203D%20Dataset%20Access-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1u74vV7f9MtUHGozeTbaMD-S6SogZQU9R?usp=drive_link) |
 | **Research Literature** | Published studies and benchmark methodologies | *To be added* |
 
 ### Dataset documentation
